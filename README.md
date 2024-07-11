@@ -23,7 +23,8 @@
          1. Retail Sales Data Analytics 
          
 ## Project Description 
-
+    1.Retail Sales Data Analytics
+    
          This project is to leverage data analytics to gain insights into sales performance, 
          customer behavior, and inventory management. This will help in making data-driven decisions 
          to enhance sales strategies, optimize inventory, and improve overall business operations.
