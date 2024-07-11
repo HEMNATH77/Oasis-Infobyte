@@ -41,4 +41,4 @@
          what I have learned to future projects.
 
 <h1>Github Link</h1>         
-<a href="https://github.com/HEMNATH77">Github Link</a>
+<a href="https://github.com/HEMNATH77">Hemnath77</a>
