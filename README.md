@@ -32,7 +32,7 @@
 ## Technology Used 
 
          1.Power Bi 
-
+         2.Microsoft Excel
 ## Conclusion
 
          This project has been an invaluable part of my internship experience, allowing me to apply 
