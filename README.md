@@ -1,44 +1,45 @@
-# Oasis-Infobyte Internship Projects
+<h1>Oasis-Infobyte Internship Projects</h1>
 
-          Welcome to my GitHub repository showcasing the projects I completed during my internship at 
+<p>Welcome to my GitHub repository showcasing the projects I completed during my internship at 
           Oasis Infobyte. This repository includes detailed documentation, data dashboards gained
-          from my experience.
+          from my experience.</p>
 
-## Contents
+ <h2>Contents</h2>
+      <ol>Introduction</ol>
+      <ol>Projects </ol>
+      <ol>Project's Description</ol>
+      <ol>Technologyies Used</ol>
+      <ol>Conclusion</ol> 
+  
+ <h2>Introduction</h2>
 
-          Introduction
-          Projects 
-          Project's Description
-          Technologyies Used
-          Conclusion
-          
-## Introduction
-
-         Hello! I'm Hemnath M , an intern at Oasis Infobyte. 
+<p>Hello! I'm Hemnath M , an intern at Oasis Infobyte. 
          This repository contains the projects I worked on during my internship. 
-         Each project demonstrates my skills in Data Analytics.
+         Each project demonstrates my skills in Data Analytics.</p>
 
-## Projects
+<h2>Projects</h2> 
 
-         1. Retail Sales Data Analytics 
+   <ol>1. Retail Sales Data Analytics </ol> 
+   
          
-## Project Description 
-    1.Retail Sales Data Analytics
+<h2>Project Description </h2> 
+    <h4>1.Retail Sales Data Analytics</h4>
     
-         This project is to leverage data analytics to gain insights into sales performance, 
+<p>This project is to leverage data analytics to gain insights into sales performance, 
          customer behavior, and inventory management. This will help in making data-driven decisions 
-         to enhance sales strategies, optimize inventory, and improve overall business operations.
+         to enhance sales strategies, optimize inventory, and improve overall business operations.</p>
 
-## Technology Used 
+<h2> Technology Used </h2>
+ 
+ <ol> 1.Power Bi </ol>
+<ol>2.Microsoft Excel</ol>
 
-         1.Power Bi 
-         2.Microsoft Excel
-## Conclusion
+<h2> Conclusion</h2>
 
-         This project has been an invaluable part of my internship experience, allowing me to apply 
+<p>This project has been an invaluable part of my internship experience, allowing me to apply 
          theoretical knowledge to practical challenges. Through this project, I have gained significant insights
          into Power Bi , Tableau ,Excel And Python. I am excited to continue building on this foundation and applying 
-         what I have learned to future projects.
+         what I have learned to future projects.</p>
 
-<h1>Github Link</h1>         
+<h1>Github Profile </h1>         
 <a href="https://github.com/HEMNATH77">Hemnath77</a>
