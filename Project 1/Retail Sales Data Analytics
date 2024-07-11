@@ -1,0 +1,30 @@
+RETAIL SALES DATA ANALYSIS
+
+OVERVIEW :
+           This project is to leverage data analytics to gain insights into sales performance, customer behavior, and inventory management. 
+           This will help in making data-driven decisions to enhance sales strategies, optimize inventory, and improve overall business operations.
+
+ANALYSIS :
+           1.Quantity With Respect to Age
+           2.Quantity and Total Amount With Respect to Product Category
+           3.Quantuty by Gender 
+           4.Product Category with Respect to Price per unit
+
+   1.QUANTITY WITH RESPECT TO AGE :
+
+                               The Analysis of Quantity of products sold with respect to customer age provides valuable insights into purchasing behaviors and preferences across different age groups.
+
+   2.QUANTITY AND TOTAL AMOUNT WITH RESPECT TO PRODUCT CATEGORY :
+
+                               Analysis of Quantity and total amount of sales with respect to product categories is essential for understanding the performance of different product lines and making informed business decisions.
+
+   3.QUANTITY BY GENDER :
+
+                              Analyzing the quantity of products sold by gender provides valuable insights into gender-specific purchasing behaviors and preferences.
+
+  4.PRODUCT CATEGORY WITH RESPECT TO PRICE PER UNIT :
+
+                            Analyzing product categories with respect to price per unit provides critical insights into pricing strategies, customer preferences, and the perceived value of different product lines.
+
+DASHBOARD :
+                Thus the Power Bi desktop shows the sales and analysis of the products. It provides a visual representation of key sales metrics and performance indicators. It helps retailers monitor, analyze, and make data-driven decisions to improve sales strategies and business operations.
