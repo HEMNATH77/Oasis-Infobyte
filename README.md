@@ -40,7 +40,7 @@
 
  <h4>NewYork Rooms Data Analysis</h4>
  <P>This repository contains an analysis of room listings in New York City, focusing on host reviews by month and year, pricing trends, availability metrics, and neighborhood insights. </P>
-<img src="https://github.com/user-attachments/assets/07a9c124-4228-450a-9f65-5b98584d257d">
+<img src="https://github.com/user-attachments/assets/5f63d0c9-fe9e-4b9b-b65b-abcb1c9ba5f9">
 
 <h2> Technology Used </h2>
  
