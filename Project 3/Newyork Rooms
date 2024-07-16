@@ -1,1 +1,44 @@
+NEW YORK CITY'S ROOMS DATA ANALYSIS
+
+OVERVIEW:
+          This File contains an analysis of room listings in New York City, 
+        focusing on host reviews by month and year, pricing trends, availability metrics, and neighborhood insights.
+STEPS:
+        1.Analyse and Preview the data in Excel.
+        2.Load the data in PowerBi and clean the data .
+        3.The cleaned and necessary Data should loaded in the PowerBi for Visuaization.
+        4. Visualize the data As you need.
+
+ANALYSIS:
+         1.Avalability by Room.
+         2.Room's Latitude and Longitude.
+         3.Reviews(month)by Neighbourhood Group.
+         4.Reviews by Neighbourhoods.
+         5.Avalability by Year.
+         6.Id by Host.
+         7.Price by Year.
+         8.Host bY Year.
+
+    1.AVALABILITY BY ROOM:
+                  Availability by room refers to the measure of how often a particular room or type of accommodation is available for booking within a given timeframe. 
+        
+    2.ROOM'S LATITUDE AND LONGITUDE:
+                   A room's latitude and longitude are geographical coordinates that pinpoint its exact location on the Earth's surface.
+    3.REVIEWS(month)BY NEIGHBOURHOOD GROUP:
+                  Reviews per month by neighborhood group is a metric that analyzes the frequency and distribution of reviews for accommodations 
+       across different neighborhoods within a city or region.
+    4.REVIEWS BY NEIGHBOURHOOD:
+                  Reviews by neighborhood refer to the assessment and feedback provided by guests about their experiences in specific neighborhoods within a city or region.
+    5.AVALABILITY BY YEAR:
+                  Availability by year refers to the assessment of how often accommodations are accessible for booking within a specific calendar year.
+    6.ID BY HOST:
+                 It refers to a unique identifier assigned to each listing or property managed by a host or property manager within a platform or system.
+    7.PRICE BY YEAR:
+                 Price by year refers to the analysis of pricing trends for accommodations over the course of different calendar years.
+    8.HOST BY YEAR:
+                 This refers to the analysis of host activity and trends within the hospitality sector over consecutive calendar years.
+
+DASHBOARD: 
+             The above mentioned analysis are created and interacted with eachothe by the PowerBi dashboard features which helps us to understand the process of
+         the New York City's Rooms Data Analysis.
 
