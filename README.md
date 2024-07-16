@@ -29,7 +29,7 @@
          customer behavior, and inventory management. This will help in making data-driven decisions 
          to enhance sales strategies, optimize inventory, and improve overall business operations.</p>
    <img src="https://github.com/user-attachments/assets/7d458e6d-7eb5-41b0-b955-fe5298007877">
-"      
+   
  <h4>2.Android App Market Data Analysis</h4>
     
 <p>This project conducts a comprehensive analysis of the Android app market, leveraging datasets from multiple sources to extract insights into app performance, user engagement, and market trends.
