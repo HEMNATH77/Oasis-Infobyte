@@ -1,1 +1,55 @@
+ANDROID APP MARKET ANALYSIS
 
+OVERVIEW:
+          This project provides a comprehensive analysis of the Android app market, leveraging data from various sources to uncover 
+          insights into app performance, trends, and user preferences. 
+
+STEPS:
+          1.The Dataset is Taken from the Kaggle. 
+          2.There are two Datasets Related to App Market Analysis. 
+          3.So, We Loaded the folder where the two datasets present.
+          4.Now tranform this folder by clicking Transform data Option.
+          5.In this step select the column that the data denoted as Binary and delete the rest of columns.
+          6. After getting a proper table with the columns of two table load the data.
+          7.Select the data from both tables for better visualization.
+
+ANALYSIS: 
+          1.Apps Price in dollars.
+          2.Rating By Category.
+          3.Rating By People.
+          4.Apps By Current Version And Android Version.
+          5.Installs By Genres.
+          6.Installs By Year.
+          7.Genres with their Size.
+
+    1.APPS PRICE IN DOLLARS:
+                   App pricing in the Android market varies significantly based on the app's category, functionality, and target audience.
+      Prices can range from free to several hundred dollars, with most paid apps.
+
+   2.RATINGS BY CATEGORY:
+                  App ratings in the Android market provide crucial insights into user satisfaction and app quality across various categories.
+      Higher ratings often correlate with better user experiences, while lower ratings can indicate issues or unmet expectations.
+
+   3.RATING BY PEOPLE:
+                 User ratings on the Android market are a direct reflection of user satisfaction and experience with an app.
+      Gives a  feedback to developers and prospective users.
+
+   4.APPS BY CURRENT VERSION AND ANDROID VERSION:
+                The compatibility and performance of Android apps can be influenced by both the app's current version and 
+     the version of the Android operating system on which it runs.
+
+   5.INSTALLS BY GENRES:
+                The number of app installs across different genres provides valuable insights into user preferences and market demand in the Android app ecosystem. 
+     Certain genres tend to attract more downloads due to their widespread appeal, utility, or entertainment value.
+
+   6.INSTALLS BY YEAR:
+                Analyzing app installs by year provides insights into market trends, user adoption patterns, and the growth of the mobile app ecosystem over time. 
+      This data helps developers and businesses understand the evolution of user preferences and the impact of various factors on app downloads.
+
+   7.GENRES WITH THEIR SIZE:
+                The size of an app genre in the Android market refers to its market share, typically measured by the number of apps available, downloads, and user engagement. 
+      Different genres vary in size based on user demand, utility, and content diversity.
+
+DASHBOARD :
+                 The above mentioned analysis are created and interacted with eachothe by the PowerBi dashboard features which helps us to understand the process of
+         the App Market Analysis data.
