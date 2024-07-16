@@ -20,7 +20,8 @@
 <h2>Projects</h2> 
 
    <ol>1. Retail Sales Data Analytics </ol> 
-   
+   <ol>2.Android App Market Data Analysis</ol>
+   <ol>3.NewYork Rooms Data Analysis</ol>
          
 <h2>Project Description </h2> 
     <h4>1.Retail Sales Data Analysis</h4>
@@ -36,7 +37,10 @@
    By analyzing key metrics such as app installs, ratings, categories, and user reviews, this analysis aims to provide valuable insights for developers, marketers, and stakeholders in the mobile app industry.</p> 
  
  <img src="https://github.com/user-attachments/assets/4e21959c-e43c-4682-8073-3f8a549ae139">
-        
+
+ <h4>NewYork Rooms Data Analysis</h4>
+ <P>This repository contains an analysis of room listings in New York City, focusing on host reviews by month and year, pricing trends, availability metrics, and neighborhood insights. </P>
+<img src="https://github.com/user-attachments/assets/07a9c124-4228-450a-9f65-5b98584d257d">
 
 <h2> Technology Used </h2>
  
