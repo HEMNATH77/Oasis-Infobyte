@@ -23,15 +23,25 @@
    
          
 <h2>Project Description </h2> 
-    <h4>1.Retail Sales Data Analytics</h4>
+    <h4>1.Retail Sales Data Analysis</h4>
     
 <p>This project is to leverage data analytics to gain insights into sales performance, 
          customer behavior, and inventory management. This will help in making data-driven decisions 
          to enhance sales strategies, optimize inventory, and improve overall business operations.</p>
+   <img src="https://github.com/user-attachments/assets/7d458e6d-7eb5-41b0-b955-fe5298007877">
+"      
+ <h4>2.Android App Market Data Analysis</h4>
+    
+<p>This project conducts a comprehensive analysis of the Android app market, leveraging datasets from multiple sources to extract insights into app performance, user engagement, and market trends.
+   By analyzing key metrics such as app installs, ratings, categories, and user reviews, this analysis aims to provide valuable insights for developers, marketers, and stakeholders in the mobile app industry.</p> 
+ 
+ <img src="https://github.com/user-attachments/assets/4e21959c-e43c-4682-8073-3f8a549ae139">
+        
 
 <h2> Technology Used </h2>
  
  <ol> 1.Power Bi </ol>
+
 <ol>2.Microsoft Excel</ol>
 
 <h2> Conclusion</h2>
