@@ -5,13 +5,17 @@ OVERVIEW:
           insights into app performance, trends, and user preferences. 
 
 STEPS:
-          1.The Dataset is Taken from the Kaggle. 
-          2.There are two Datasets Related to App Market Analysis. 
-          3.So, We Loaded the folder where the two datasets present.
-          4.Now tranform this folder by clicking Transform data Option.
-          5.In this step select the column that the data denoted as Binary and delete the rest of columns.
-          6. After getting a proper table with the columns of two table load the data.
-          7.Select the data from both tables for better visualization.
+          1. Check the datasets in Microsoft Excel.
+          2. Load the datasets in Microsoft Power BI.
+          3. Before loading the datasets, transform them by selecting the folder where the two datasets are stored.
+          4. In the Power Query Editor, select the column named "Content" and remove the other columns.
+          5. Select the "Content" column and customize it by entering the query [=Excel.Workbook([Content])] and click OK.
+          6. A custom column containing tables is created. Click on the filter button, select the necessary data, and click OK.
+          7. Many custom columns will be created. Select the columns that have the names and tables.
+          8. Delete the other columns and load the data. Now, there will be a single dataset combining all the necessary information for visualization.
+          9. Load the data in Power BI Desktop and visualize it.
+
+Let me know if you need any further modifications!
 
 ANALYSIS: 
           1.Apps Price in dollars.
