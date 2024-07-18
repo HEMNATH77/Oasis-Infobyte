@@ -4,10 +4,15 @@ OVERVIEW:
           This File contains an analysis of room listings in New York City, 
         focusing on host reviews by month and year, pricing trends, availability metrics, and neighborhood insights.
 STEPS:
-        1.Analyse and Preview the data in Excel.
-        2.Load the data in PowerBi and clean the data .
-        3.The cleaned and necessary Data should loaded in the PowerBi for Visuaization.
-        4. Visualize the data As you need.
+        1.Check Dataset in Microsoft Excel.
+
+        2.Load the Dataset in Power Query Editor on Microsoft PowerBI.
+
+        3.Clean the Dataset by Removing Zeros and Null values in each Column.
+
+       4.Transform the Cleaned Dataset and Visualize them.
+
+       5.In Visualization, Use Ribbon Chart and Waterfall Chart for Innovative Dashboard Creation.
 
 ANALYSIS:
          1.Avalability by Room.
